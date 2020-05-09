@@ -36,7 +36,7 @@ const Header = () => {
               xmlns="http://www.w3.org/2000/svg"
             >
               <title>Menu</title>
-              <path d="https://www.google.com/"/>
+              <path d="https://www.google.com/" />
             </svg>
           </button>
         </div>
